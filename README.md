@@ -1,6 +1,6 @@
 ## Привет👋
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
-# Hello World!, Я Женя, a Russian Web Developer 👋🏼:
+<!--<img src="banner_github.png" alt="GitHub Banner" width="100%" />-->
+# Hello World!, Evgeny, Russian Web Developer 👋🏼:
 🛜 currently working on my 
 <br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik
 <br>👨🏼‍💻 working as a web developer since 2022 
