@@ -10,18 +10,14 @@
 - **Интернет-магазин:** Разработка и поддержка веб-приложения для интернет-магазина на ASP.NET Core, интеграция с платёжными системами и службами доставки.
 - **CRM система:** Участие в разработке CRM системы для крупной компании, создание модулей для управления клиентами и заказами, разработка REST API.
 - **Telegram Bot** Обработки текстовых и голосовых запросов пользователей. Интеграции с внешними API. Создание автоматизированных уведомлений и напоминаний.
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
 
-<!-- 🚀 Участвовал в проектах:    
+
+ 🚀 Участвовал в проектах:    
     Разработка веб-сервисов с REST API  
     Создание интерфейсов с Blazor и интеграция сторонних сервисов
 🌟 Технические навыки:    
     Написание unit-тестов для проверки кода  
-    Основы CI/CD (Git, Docker, начальный опыт с Azure DevOps)-->     
+    Основы CI/CD (Git, Docker, начальный опыт с Azure DevOps)  
 # 💻 Технологический стек:
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
