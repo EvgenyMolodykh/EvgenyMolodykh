@@ -2,28 +2,27 @@
 <!--<img src="banner_github.png" alt="GitHub Banner" width="100%" />-->
 # С# Developer 👨‍💻
 ## ⚙️Навыки
-- **Языки программирования:** C#, JavaScript
+- **Язык программирования:** C#
 - **Технологии:** .NET, ASP.NET, Entity Framework, LINQ, написание unit-тестов
 - **Инструменты:** Visual Studio, Docker, Postman, Swagger
-- **Базы данных:** SQL Server, PostgreSQL,MS SQL
+- **Базы данных:** PostgreSQL,MS SQL,S3
+- Написание unit-тестов для проверки кода
 ## 🚀 Проекты
-- **Интернет-магазин:** Разработка и поддержка веб-приложения для интернет-магазина на ASP.NET Core, интеграция с платёжными системами и службами доставки.
-- **CRM система:** Участие в разработке CRM системы для крупной компании, создание модулей для управления клиентами и заказами, разработка REST API.
+- **Интернет-магазин:** Разработка и поддержка веб-приложения интернет-магазин (ASP.NET Core), интеграция с платёжными системами и службами доставки.
+- **WPF приложение:** Разработка WPF приложения для просмотра погоды, интреграция с сервисами YandexAPI, GeoMeteo. Разработка REST API.
 - **Telegram Bot** Обработки текстовых и голосовых запросов пользователей. Интеграции с внешними API. Создание автоматизированных уведомлений и напоминаний.
 
-
- 🚀 Участвовал в проектах:    
-    Разработка веб-сервисов с REST API  
-    Создание интерфейсов с Blazor и интеграция сторонних сервисов
-🌟 Технические навыки:    
-    Написание unit-тестов для проверки кода  
-    Основы CI/CD (Git, Docker, начальный опыт с Azure DevOps)  
 # 💻 Технологический стек:
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
+<p>
+  <a target="_blank" 
+   href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" 
+   style="display: inline-block;">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" 
+    alt="csharp" 
+    width="42"
+    height="42"/>
+  </a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="42" height="42" /></a>
