@@ -1,6 +1,6 @@
 
 <!--<img src="banner_github.png" alt="GitHub Banner" width="100%" />-->
-# С# Developer 👨‍💻
+# С# Developer
 ## ⚙️Навыки
 - **Язык программирования:** C#
 - **Технологии:** .NET, ASP.NET, Entity Framework, LINQ, написание unit-тестов
