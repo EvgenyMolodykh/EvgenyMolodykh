@@ -11,7 +11,7 @@
 - **WPF приложение:** Разработка WPF приложения для просмотра погоды, интреграция с сервисами YandexAPI, GeoMeteo. Разработка REST API.
 - **Telegram Bot** Обработки текстовых и голосовых запросов пользователей. Интеграции с внешними API. Создание автоматизированных уведомлений и напоминаний.
 
-# 💻 Технологический стек:
+# 💻 Stack:
 <p>
   <a target="_blank" 
    href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" 
