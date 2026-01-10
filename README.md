@@ -1,17 +1,17 @@
 
 <!--<img src="banner_github.png" alt="GitHub Banner" width="100%" />-->
 # С# Developer
-## ⚙️Навыки
+## Навыки
 - **Язык программирования:** C#
 - **Технологии:** .NET, ASP.NET, Entity Framework, LINQ, написание unit-тестов
 - **Инструменты:** Visual Studio, Docker, Postman, Swagger
 - **Базы данных:** PostgreSQL,MS SQL,S3
-## 🚀 Проекты
+## Проекты
 - **Интернет-магазин:** Разработка и поддержка веб-приложения интернет-магазин (ASP.NET Core), интеграция с платёжными системами и службами доставки.
 - **WPF приложение:** Разработка WPF приложения для просмотра погоды, интреграция с сервисами YandexAPI, GeoMeteo. Разработка REST API.
 - **Telegram Bot** Обработки текстовых и голосовых запросов пользователей. Интеграции с внешними API. Создание автоматизированных уведомлений и напоминаний.
 
-# 💻 Stack:
+# Stack:
 <p>
   <a target="_blank" 
    href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" 
